@@ -1,0 +1,78 @@
+﻿@model IEnumerable<TaskManager.Models.BuildingMaterialModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="display-4">Materiały budowlane</h1>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Dodaj nowy</a>
+    <a class="btn btn-danger" asp-action="DeleteAll">Usuń wszystkie nowo dodane</a>
+</p>
+<p>
+
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Symbol)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThermalConductivitySW)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThermalConductivityW)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Density)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpecificHeat)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="width:3%">
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td style="width:3%">
+                    @Html.DisplayFor(modelItem => item.Symbol)
+                </td>
+                <td style="width:30%">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td style="width:5%">
+                    @Html.DisplayFor(modelItem => item.ThermalConductivitySW)
+                </td>
+                <td style="width:5%">
+                    @Html.DisplayFor(modelItem => item.ThermalConductivityW)
+                </td>
+                <td style="width:12%">
+                    @Html.DisplayFor(modelItem => item.Density)
+                </td>
+                <td style="width:5%">
+                    @Html.DisplayFor(modelItem => item.SpecificHeat)
+                </td>
+
+                <td style="width:40%">
+                    @Html.ActionLink("Szczegóły", "Details", new {  id=item.Id }, new {@class = "btn btn-info"})
+                    @Html.ActionLink("Edytuj", "Edit", new {  id=item.Id }, new {@class = "btn btn-warning"})
+                    @Html.ActionLink("Usuń", "Delete", new { id=item.Id }, new {@class = "btn btn-danger"})
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

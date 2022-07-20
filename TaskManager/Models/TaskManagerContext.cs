@@ -11,6 +11,7 @@ namespace TaskManager.Models
 
         public DbSet<TaskModel> Tasks { get; set; }
         public DbSet<EmployeeModel> Employees { get; set; }
+        public DbSet<BuildingMaterialModel> BuildingMaterialModel { get; set; }
 
     }
 }

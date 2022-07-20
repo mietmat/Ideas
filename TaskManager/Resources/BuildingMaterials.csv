@@ -1,0 +1,280 @@
+AL;aluminium;200;200;2700;0,87
+AS;asfalt lany;0,75;0,75;1800;0,92
+AS;asfalt ponaftowy;0,17;0,17;1050;0,92
+AS;asfaltobeton;1;1;2100;0,92
+AZ;azbest papier.;0,698;0,72;2000;0,84
+AZ;azbest sypki i włóknisty;0,233;0,25;700;0,84
+;;;;;
+BA;bakelit;0,244;0,244;1270;1,4
+BE;beton z kruszywa kamiennego - r 1200;0,5;0,6;1200;0,84
+BE;beton z kruszywa kamiennego - r 1400;0,6;0,7;1400;0,84
+BE;beton z kruszywa kamiennego - r 1600;0,72;0,8;1600;0,84
+BE;beton z kruszywa keramzytowego r=1300;0,62;0,68;1300;0,84
+BE;beton zwykły z kruszywa kamiennego - r1900;1;1,1;1900;0,84
+BE;beton zwykły z kruszywa kamiennego - r2200;1,3;1,5;2200;0,84
+;;;;;
+BE;beton zwykły z kruszywa kamiennego - r2400;1,7;1,8;2400;0,84
+BE;ściana z bloczków z betonu komórkowego - r 500;0,25;0,3;500;0,84
+;;;;;
+BE;ściana z bloczków z betonu komórkowego - r 600;0,3;0,35;600;0,84
+BE;ściana z bloczków z betonu komórkowego - r 700;0,35;0,4;700;0,84
+BE;ściana z bloczków z betonu komórkowego - r 800;0,38;0,44;800;0,84
+BE;ściana z dużych bloków z betonu kom- r 500;0,17;0,22;500;0,84
+BE;ściana z dużych bloków z betonu kom- r 700;0,25;0,3;700;0,84
+BE;ściana z dużych bloków z betonu kom- r 800;0,29;0,35;800;0,84
+BE;beton jamisty z kruszywa kamiennego;1;1,1;1900;0,84
+BE;beton z kruszywa keramzytowego r=1000;0,39;0,43;1000;0,84
+BE;beton z kruszywa keramzytowego r=1100;0,46;0,51;1100;0,84
+BE;beton z kruszywa keramzytowego r=1200;0,54;0,6;1200;0,84
+BE;beton z kruszywa keramzytowego r=1400;0,72;0,8;1400;0,84
+BE;beton z kruszywa keramzytowego r=1600;0,9;1;1600;0,84
+BE;beton z żużla palenioskowego- r 1200;0,5;0,56;1200;0,84
+BE;beton z żużla palenioskowego- r 1400;0,6;0,67;1400;0,84
+BE;beton z żużla palenioskowego- r 1600;0,72;0,8;1600;0,84
+BE;beton z żużla palenioskowego- r 1800;0,85;0,95;1800;0,84
+BE;beton z żużla pumeks. lub granul.;0,5;0,58;1400;0,84
+BE;beton z żużla pumeks. lub granul. - r 1000;0,33;0,4;1000;0,84
+BE;beton z żużla pumeks. lub granul. - r 1200;0,4;0,47;1200;0,84
+BE;beton z żużla pumeks. lub granul. - r 1400;0,5;0,58;1400;0,84
+BE;beton z żużla pumeks. lub granul. - r 1600;0,58;0,68;1600;0,84
+BE;beton z żużla pumeks. lub granul. - r 1800;0,7;0,8;1800;0,84
+BI;bitumen;0,174;0,19;1100;1,4
+BL;blacha trapezowa lub dachówkowa;58;58;7800;0,44
+BL;bloczki ścienne KONTRA-40 z ??;0,2;0,25;650;0,84
+BL;bloczki ścienne mikrosferopopiołowe? ;0,2;0,4;720;0,84
+CKL;Calsitherm Klimaplate;0,059;0,065;220;0,84
+CY;cynk;110;110;7100;0,39
+DA;dachówka cementowa;1;1,1;1900;0,84
+DA;dachówka ceramiczna;0,82;0,91;1800;0,88
+BU;drewno bukowe w poprzek włóknien.;0,22;0,26;800;1,3
+BU;drewno bukowe wzdłuż włóknien.;0,4;0,46;800;1,3
+DA;drewno dębowe w poprzek włókien.;0,22;0,26;800;2,51
+DA;drewno dębowe wzdłuż włókien.;0,4;0,46;800;2,51
+DJ;drewno jaworowe w poprzek włókien;0,158;0,158;710;2,51
+DJ;drewno jaworowe wzdłuz włókien;0,419;0,149;710;2,51
+DJ;drewno jesioniowe w poprzek włókien;0,174;0,174;740;2,51
+DJ;drewno jesioniowe wzdłuz włókien;0,302;0,302;740;2,51
+DM;drewno mahoniowe w poprzek włókien;0,151;0,151;700;2,51
+DM;drewno mahoniowe wzdłuz włókien;0,314;0,314;700;2,51
+DM;drewno modrzewiowe w poprzek włóknen;0,14;0,14;620;2,51
+DM;drewno modrzewiowe wzdłuż włókien;0,3;0,35;620;2,51
+DO;drewno orzechowe w poprzek włókien;0,267;0,267;700;2,51
+DS;drewno sosnowe w poprzek włókien;0,16;0,2;550;2,51
+DS;drewno sosnowe wzdłuz włókien;0,3;0,35;550;2,51
+EB;ebonit;0,17;0,17;1200;1,4
+ES;elementy ścienne OLESZNO 86 trocinobeton;0,3;0,35;800;0,84
+EL;elementy z tworzywa bezcementowego;0,6;0,65;1300;0,84
+FI;elementy z tworzywa piasko-popioło-cementowego;0,55;0,6;1700;0,84
+ES;estrichgips czysty;1;1,1;1800;0,84
+ES;estrichgips czysty;1;1,1;1800;0,84
+ES;estrichgips z piaskiem;1,2;1,3;1900;0,84
+ES;estrichgips z piaskiem;1,2;1,3;1900;0,84
+
+F;filc izolacyjny ;0,06;0,08;300;1,67
+F;filce i maty z wełny mineralnej w stropie;0,052;0,052;70;0,75
+F;filce i maty z wełny mineralnej w ścianach;0,045;0,05;70;0,75
+F;folia polietylenowa;0,2;0,2;1300;1,42
+GA;gazobeton 06;0,174;0,349;600;0,85
+GA;gazobeton 08;0,233;0,523;800;0,85
+GA;gazobeton 1;0,349;0,698;1000;0,85
+GA;gazobeton 1.2;0,465;0,93;1200;0,85
+GA;gazobeton 1.4;0,582;1,163;1400;0,85
+GA;gazogips;0,19;0,28;500;0,84
+GP;gipsobeton piaskowy - gęstość 1200;0,45;0,52;1200;0,84
+GP;gipsobeton piaskowy - gęstość 1300;0,52;0,62;1300;0,84
+GL;glazura;1,05;1,05;2000;0,92
+GL;glina;0,85;0,85;1800;0,84
+GL;glina piaszczysta;0,7;0,7;1800;0,84
+GF;granit;3,5;3,7;2800;0,92
+GF;granulowane odpady pianki poliuretanowej;0,08;0,08;300;1,46
+GF;granulowane odpady włokien syntetycznych;0,05;0,05;110;1,46
+GF;grunt rodzimy pod budynkiem;1,74;1,74;1800;0,84
+GF;grunt roślinny;0,9;0,9;1800;1,26
+GF;gruzobeton;1;1,1;1900;0,84
+GL;guma w płytach;0,2;0,2;1200;1,26
+IŁ;ił;0,75;0,75;1800;0,84
+I;izolacyjny wkład z włókniny syntetycznej;0,05;0,05;115;1,46
+JG;jastrych gipsowy czysty- r 1300;0,52;0,6;1300;0,084
+JG;jastrych gipsowy czysty- r 1300;0,52;0,6;1300;0,84
+JG;jastrych gipsowy czysty- r 1800;1;1,1;1800;0,84
+JG;jastrych gipsowy z piaskiem ;1,2;1,3;1900;0,84
+K;kamień o strukturze porowatej;1,745;1,745;1700;0,92
+K;kamień o strukturze zbitej;2,908;2,908;2800;0,92
+L;lastriko;0,72;0,8;1600;0,92
+
+M;marmur;3,5;3,7;2800;0,92
+MI;masa izolacyjna na bazie mikrosfer nr 1;0,106;0,106;500;1,2
+MI;masa izolacyjna na bazie mikrosfer nr 2;0,136;0,136;550;1,2
+MI;masa izolacyjna na bazie mikrosfer nr 3;0,154;0,154;600;1,2
+MP;masa podłogowa poliestrowa IZOPLASTYK;0,505;0,505;1790;1,4
+ML;maty lamelowe z wełny mineralnej;0,05;0,05;70;0,75
+MP;maty pikowane z włókniny syntetycznej;0,046;0,046;110;1,2
+M;maty z włókna szklanego;0,045;0,05;80;0,84
+M;maty z włókna szklanego;0,045;0,05;50;0,84
+MT;mączka tortowa;0,09;0,12;200;1,67
+MT;mączka tortowa;0,09;0,12;200;1,67
+M;miedź;370;370;8800;0,38
+M;mur z betonu kom. na cienkow. zapr. r=400;0,14;0,17;400;0,84
+M;mur z betonu kom. na cienkow. zapr. r = 500;0,17;0,22;500;0,84
+M;mur z betonu kom. na cienkow. zapr. r = 600;0,21;0,25;600;0,84
+M;mur z betonu kom. na cienkow. zapr. r = 700;0,25;0,3;700;0,84
+M;mur z betonu kom. na cienkow. zapr. r = 800;0,29;0,35;800;0,84
+M;mur z bet. kom. na zaprawie cement-wap r =500;0,25;0,3;500;0,84
+M;mur z bet. kom. na zaprawie cement-wap r =600;0,3;0,35;600;0,84
+M;mur z bet. kom. na zaprawie cement-wap r =700;0,35;0,4;700;0,84
+M;mur z bet. kom. na zaprawie cement-wap r =800;0,38;0,44;800;0,84
+CE;mur z cegły ceramicznej pełnej;0,77;0,91;1800;0,88
+CE;mur z cegły dziurawki 120x250x65;0,64;0,7;1400;0,88
+CE;mur z cegły dziurawki na zaprawie;0,62;0,7;1400;0,88
+CE;mur z cegły klinkierowej;1,05;1,15;1900;0,88
+CE;mur z cegły kratówki K-1 120x250x63;0,45;0,47;1300;0,88
+CE;mur z cegły kratówki K-2 120x250x140;0,45;0,47;1300;0,88
+CE;mur z cegły kratówki na zaprawie;0,56;0,62;1300;0,88
+CE;mur z cegły silikatowej drążonej;0,8;0,9;1600;0,88
+CE;mur z cegły silikatowej pełnej;1;1,1;1900;0,88
+CE;mur z cegły szczelinowej z obustronym tynkiem;0,52;0,58;1150;0,88
+MK;mur z kamienia łamanego ;2,55;2,75;2400;0,92
+MK;mur z kamienia łamanego o r =2800;2,55;2,75;2400;0,92
+
+PA;papa asfaltowa ;0,18;0,18;1000;1,46
+PA;papa asfaltowa na taśmie aluminiowej;0,18;0,18;1000;1,46
+PA;papier;0,25;0,3;1000;1,46
+PCW;PCW;0,2;0,2;1300;1,26
+PP;pianka poliuretanowa spieniona;0,025;0,025;30;1,46
+PP;pianka poliuretanowa spieniona w osł. np. PW8;0,025;0,025;40;1,46
+PP;pianka poliuretanowa w pozostałych przypadkach;0,035;0,04;40;1,46
+PP;piasek pylasty;0,55;0,55;1800;0,84
+PS;piasek średni;0,4;0,4;1650;0,84
+P;piaskowiec;2,2;2,4;2400;0,92
+P;pleksiglas;0,19;0,19;1180;1,26
+
+
+PG;płyty gipsowo-kartonowe;0,23;0,29;1000;1
+PG;płyty i bloki z gipsu - gęstość 1000;0,35;0,4;1000;0,84
+PG;płyty i bloki z gipsu - gęstość 900;0,3;0,35;900;0,84
+PI;płyty izolacyjne dachowe UNITHERM;0,36;0,36;17;1,46
+PI;płyty izolacyjne IZOPOR B;0,065;0,065;300;1,46
+PI;płyty izolacyjne PW11/A;0,041;0,041;30;1,46
+PI;płyty izolacyjne z odpadów włókien poliestrowych;0,06;0,06;110;0,92
+PI;płyty izolacyjne z odpadów z trzciny;0,1;0,1;300;1,46
+PI;płyty izolacyjne z pianki poliuretanowej;0,025;0,025;50;1,46
+PK;płyty korkowe asfaltowane;0,07;0,075;250;1,38
+PK;płyty korkowe asfaltowane;0,07;0,075;250;1,38
+PK;płyty korkowe ekspandowane;0,045;0,05;150;2,06
+PK;płyty korkowe ekspandowane;0,045;0,05;150;2,06
+AN;płyty ogniochronne ANTITHERM;0,039;0,039;17;0,84
+PO;płyty okładzinowe ceramiczne;1,5;1,05;2000;0,84
+CE;płyty okładzinowe ceramiczne, terakota;1,05;1,05;2000;0,84
+PP;płyty pilśniowe porowate;0,13;0,14;300;2,51
+PP;płyty pilśniowe twarde;0,18;0,21;1000;2,51
+PP;płyty POLMIN BT-ZH z wełny mineralnej;0,04;0,04;145;0,75
+PP;płyty POLMIN BT-ZH-S wełna mineralna;0,04;0,04;145;0,75
+PP;płyty POLMIN M wełna mineralna;0,04;0,04;45;0,75
+PP;płyty POLMIN PT z wełny min.;0,04;0,04;70;0,75
+PP;płyty POLMIN T-ZH z wełny min.;0,04;0,04;100;0,75
+PS;płyty styrowiórowe;0,045;0,045;180;1,4
+PS;płyty styrowiórowe;0,07;0,07;260;1,4
+PT;płyty TERMOBET 120 z wełny min.;0,04;0,04;110;0,75
+SO;płyty TERMOBET 120 z wełny min.;0,04;0,04;100;0,75
+
+
+PW;płyty wiórkowo-cementowe;0,14;0,16;450;2,09
+PW;płyty wiórkowo-cementowe;0,15;0,19;600;2,09
+PW;płyty wiórkowo-cementowe;0,14;0,16;450;2,09
+PW;płyty wiórowe na lepiszczy syntetycznym;0,07;0,09;300;2,09
+PW;płyty wiórowe na lepiszczy syntetycznym;0,13;0,15;700;2,09
+PP;płyty z paździerzy lnianych;0,075;0,09;300;1,46
+PP;płyty z paździerzy lnianych;0,1;0,12;500;1,46
+PP;płyty z paździerzy lnianych;0,13;0,15;600;1,46
+PP;płyty z paździerzy lnianych;0,15;0,19;700;1,46
+PP;płyty z paździerzy lnianych na lepiszczu synt;0,075;0,09;300;1,46
+PP;płyty z paździerzy lnianych na lepiszczu synt;0,1;0,12;500;1,46
+PP;płyty z paździerzy lnianych na lepiszczu synt;0,13;0,15;600;1,46
+PP;płyty z paździerzy lnianych na lepiszczu synt;0,15;0,19;700;1,46
+PT;płyty z trzciny;0,07;0,1;250;1,46
+PW;płyty z wełny mineralnej - inne przypadki;0,05;0,055;130;0,75
+PW;płyty z wełny mineralnej - ułozone ??;0,042;0,045;130;0,75
+PS;płyty ze słomy;0,08;0,1;300;1,46
+BE;podkład z betonu chudego;1,05;1,22;1900;0,84
+BE;podkład z betonu pod posadzkę;1,4;1,57;2200;0,84
+PL;popioły lotne(ubijane);0,3;0,37;1000;0,75
+PH;proszek hydrofobowy;0,28;0,33;1000;0,75
+
+
+
+
+
+
+
+
+S;salonit (10-50% azbestu, suchy);0,6;0,64;1800;0,84
+S;salonit (30% azbestu, 10% wilgoci);0,791;0,8;2200;0,84
+S;salonit (z dużą zawartością azbestu ;0,174;0,349;1850;0,84
+S;sklejka;0,16;0,2;600;2,51
+S;stal budowlana;58;58;7800;0,44
+S;styropian - inne przypadki;0,045;0,05;30;1,46
+S;styropian ułożony szczelnie;0,04;0,045;30;1,46
+S;styropianobeton;0,15;0,15;400;0,84
+S;styropianobeton;0,18;0,18;500;0,84
+S;styropianobeton;0,22;0,22;600;0,84
+S;styropianobeton;0,25;0,25;700;0,84
+S;styropianobeton;0,28;0,28;800;0,84
+S;styropianobeton;0,35;0,35;900;0,84
+S;styropor;0,032;0,04;22;1,4
+S;szkło okienne;0,8;0,8;2500;0,84
+S;szkło organiczne (pleksiglas);0,19;0,19;1180;1,26
+S;szkło piankowe białe;0,12;0,13;300;0,84
+S;szkło piankowe czarne;0,07;0,07;180;0,84
+S;szkło zbrojone;1,15;1,15;2700;0,84
+
+
+
+S;śnieg ;0,116;0,116;150;4,83
+S;śnieg ;0,223;0,223;300;4,83
+S;śnieg ;0,465;0,465;500;4,83
+S;śnieg ;1,279;1,279;800;4,83
+S;śrut gumowy;0,09;0,1;300;1,26
+S;śrut gumowy;0,09;0,1;300;1,26
+T;tektura;0,14;0,17;900;1,46
+T;terakota;1,05;1,05;2000;0,84
+T;trociny drzewne luzem;0,09;0,12;250;2,51
+T;tworzywo piaskowo-popiołowo-cementowe;0,55;0,6;1700;0,84
+T;tynk lub gładź cementowa;1;1,1;2000;0,84
+T;tynk lub gładź cementowo-wapienna;0,82;0,9;1850;0,84
+T;tynk wapienny;0,7;0,8;1700;0,84
+W;wapień porowaty;0,64;0,76;1400;0,92
+W;wapień porowaty;0,92;1,15;1700;0,92
+W;wapień zwykły ;1,15;1,4;2000;0,92
+
+
+
+
+W;wełna mineralna luzem w stropie poddasza;0,052;0,052;60;0,75
+W;wełna mineralna luzem w ścianach;0,043;0,05;60;0,75
+W;winidur;0,151;0,151;1350;1,21
+W;wiórobeton i wiórotrocinobeton;0,3;0,35;1000;1,46
+W;wiórobeton i wiórotrocinobeton;0,15;0,18;500;1,46
+W;wiórobeton i wiórotrocinobeton;0,17;0,2;600;1,46
+W;wiórobeton i wiórotrocinobeton;0,19;0,22;700;1,46
+W;wiórobeton i wiórotrocinobeton;0,22;0,25;800;1,46
+W;wiórobeton i wiórotrocinobeton;0,26;0,3;900;1,46
+W;wiórotrocinobeton i wiórobeton;0,15;0,18;500;1,46
+W;wióry drzewne luzem;0,07;0,08;150;2,5
+W;wióry drzewne ubijane;0,09;0,12;300;2,51
+W;włóknina syntetyczna;0,045;0,05;100;1,46
+W;włóknina syntetyczna prasowana;0,075;0,08;300;1,46
+W;wojłok;0,12;0,15;500;1,67
+W;wykładzina podłogowa PCV;0,02;0,02;1300;1,26
+Z;zaprawa TERMOR W;0,2;0,2;1200;0,84
+Z;żelbet;1,7;1,8;2500;0,84
+Z;żeliwo;50;50;7200;0,44
+Z;żużel paleniskowy;0,28;0,35;1000;0,75
+Z;żużel paleniskowy;0,22;0,28;700;0,75
+Z;żużel wielkopiecowy granulat lub keramzyt;0,16;0,19;500;0,75
+Z;żużel wielkopiecowy granulat lub keramzyt;0,2;0,24;700;0,75
+Z;żużel wielkopiecowy granulat lub keramzyt;0,26;0,29;900;0,75
+Z;żwir;0,9;0,9;1800;0,84
+Z;żywica anilinowa;0,267;0,267;1210;1,21
+Z;żywica fenolowa;0,3;0,3;1320;1,21
+Z;żywica kazeinowa;0,163;0,163;1350;1,21
+Z;żywica mocznikowa;0,349;0,349;1500;1,21

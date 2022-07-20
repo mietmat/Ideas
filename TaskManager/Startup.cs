@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TaskManager.Components.CsvReader;
 using TaskManager.Models;
 using TaskManager.Repositories;
 
@@ -31,6 +32,8 @@ namespace TaskManager
                 options.UseSqlServer(Configuration.GetConnectionString("TaskManagerDatabase")));
             services.AddTransient<ITaskRepository, TaskRepository>();
             services.AddTransient<IEmployeeRepository, EmployeeRepository>();
+            services.AddTransient<IBuildingMaterialRepository, BuildingMaterialRepository>();
+            services.AddTransient<ICsvReader, CsvReader>();
 
         }
 
@@ -58,7 +61,7 @@ namespace TaskManager
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Employee}/{action=Index}/{id?}");
+                    pattern: "{controller=BuildingMaterial}/{action=Index}/{id?}");
             });
         }
     }
