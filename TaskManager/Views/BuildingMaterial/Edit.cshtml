@@ -1,0 +1,55 @@
+﻿@model TaskManager.Models.BuildingMaterialModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Symbol" class="control-label"></label>
+                <input asp-for="Symbol" class="form-control" />
+                <span asp-validation-for="Symbol" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThermalConductivitySW" class="control-label"></label>
+                <input asp-for="ThermalConductivitySW" class="form-control" />
+                <span asp-validation-for="ThermalConductivitySW" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThermalConductivityW" class="control-label"></label>
+                <input asp-for="ThermalConductivityW" class="form-control" />
+                <span asp-validation-for="ThermalConductivityW" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Density" class="control-label"></label>
+                <input asp-for="Density" class="form-control" />
+                <span asp-validation-for="Density" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SpecificHeat" class="control-label"></label>
+                <input asp-for="SpecificHeat" class="form-control" />
+                <span asp-validation-for="SpecificHeat" class="text-danger"></span>
+            </div>
+         
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-dark" asp-action="Index">Wróć do listy materiałów</a>
+</div>
+

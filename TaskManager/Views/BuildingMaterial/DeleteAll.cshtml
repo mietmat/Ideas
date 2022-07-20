@@ -1,0 +1,19 @@
+﻿@model TaskManager.Models.BuildingMaterialModel
+
+@{
+    ViewData["Title"] = "DeleteAll";
+}
+
+<h1>Usuwanie wszystkich nowo dodanych materiałów</h1>
+
+<h3>Jesteś pewien że chcesz usunąć wszystkie dodane przez Ciebie materiały ?</h3>
+<div>
+    <hr />
+    <dl class="row">
+    </dl>
+
+    <form asp-action="DeleteAll">
+        <input type="submit" value="Usuń wszystkie" class="btn btn-danger" />
+        <a class = "btn btn-dark" asp-action="Index">Wróć do listy materiałów</a>
+    </form>
+</div>
